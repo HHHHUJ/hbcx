@@ -1,0 +1,73 @@
+.taskinfo {
+    width:100%;
+    height:5.96rem;
+    background:#024670;
+    border-radius:10px;
+    padding:0 0.37rem;
+    position: relative;
+    margin-bottom:0.80rem;
+}
+.tim {
+    display:inline-block;
+    line-height:1.67rem;
+    width:100%;
+    font-size:0.35rem;
+    color:#fff;
+    height:1.67rem;
+    border-bottom:1px solid #fff;
+}
+.p2p {
+    display:flex;
+    justify-content: space-between;
+    height:1.51rem;
+    margin-top:0.72rem;
+}
+.airimg {
+    position:absolute;
+    top:2.60rem;
+    left:50%;
+    margin-left:-1.00rem;
+    width:2.00rem;
+    height:1.50rem;
+}
+.p2p>section {
+    display:flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.start,.end {
+    font-size:0.42rem;
+    color:#fff;
+}
+.time {
+    color:#fff;
+    font-size:0.28rem;
+}
+
+.btn {
+    width:100%;
+    margin-top:0.78rem;
+    overflow: hidden;
+}
+.btn>a {
+    color:#fff;
+    font-size:0.45rem;
+    line-height:0.90rem;
+    text-align: center;
+    float:left;
+    width:2.05rem;
+    height:0.90rem;
+    background:#169bd5;
+    border-radius:5px;
+}
+.a1 {
+    margin-left:1.19rem;
+}
+.a2 {
+    margin-left:0.64rem;
+}
+.a3 {
+    margin-left:0.68rem;
+}
