@@ -24,4 +24,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 mongodb 版本回滚到2.2.33
 
 
-#hbcx
+这个航班查询是基于原生的mongo和express写的，mongo连接写在conn.js里面，由于接口较少，所有的路由写在app.js里面
